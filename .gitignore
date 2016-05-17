@@ -1,0 +1,7 @@
+/_ide_helper.php
+/vendor
+/node_modules
+.env
+Thumbs.db
+.DS_Store
+/.idea
